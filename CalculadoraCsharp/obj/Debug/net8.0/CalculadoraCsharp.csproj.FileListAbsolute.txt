@@ -1,0 +1,14 @@
+C:\Users\Thiago Barreto\Desktop\CalculadoraCsharp\obj\Debug\net8.0\CalculadoraCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago Barreto\Desktop\CalculadoraCsharp\obj\Debug\net8.0\CalculadoraCsharp.AssemblyInfoInputs.cache
+C:\Users\Thiago Barreto\Desktop\CalculadoraCsharp\obj\Debug\net8.0\CalculadoraCsharp.AssemblyInfo.cs
+C:\Users\Thiago Barreto\Desktop\CalculadoraCsharp\obj\Debug\net8.0\CalculadoraCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Barreto\Desktop\CalculadoraCsharp\bin\Debug\net8.0\CalculadoraCsharp.exe
+C:\Users\Thiago Barreto\Desktop\CalculadoraCsharp\bin\Debug\net8.0\CalculadoraCsharp.deps.json
+C:\Users\Thiago Barreto\Desktop\CalculadoraCsharp\bin\Debug\net8.0\CalculadoraCsharp.runtimeconfig.json
+C:\Users\Thiago Barreto\Desktop\CalculadoraCsharp\bin\Debug\net8.0\CalculadoraCsharp.dll
+C:\Users\Thiago Barreto\Desktop\CalculadoraCsharp\bin\Debug\net8.0\CalculadoraCsharp.pdb
+C:\Users\Thiago Barreto\Desktop\CalculadoraCsharp\obj\Debug\net8.0\CalculadoraCsharp.dll
+C:\Users\Thiago Barreto\Desktop\CalculadoraCsharp\obj\Debug\net8.0\refint\CalculadoraCsharp.dll
+C:\Users\Thiago Barreto\Desktop\CalculadoraCsharp\obj\Debug\net8.0\CalculadoraCsharp.pdb
+C:\Users\Thiago Barreto\Desktop\CalculadoraCsharp\obj\Debug\net8.0\CalculadoraCsharp.genruntimeconfig.cache
+C:\Users\Thiago Barreto\Desktop\CalculadoraCsharp\obj\Debug\net8.0\ref\CalculadoraCsharp.dll
