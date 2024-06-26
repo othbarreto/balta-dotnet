@@ -1,0 +1,15 @@
+C:\Users\Thiago Barreto\Desktop\Csharp\EditorTexto\obj\Debug\net8.0\EditorTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago Barreto\Desktop\Csharp\EditorTexto\obj\Debug\net8.0\EditorTexto.AssemblyInfoInputs.cache
+C:\Users\Thiago Barreto\Desktop\Csharp\EditorTexto\obj\Debug\net8.0\EditorTexto.AssemblyInfo.cs
+C:\Users\Thiago Barreto\Desktop\Csharp\EditorTexto\obj\Debug\net8.0\EditorTexto.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Barreto\Desktop\Csharp\EditorTexto\obj\Debug\net8.0\EditorTexto.sourcelink.json
+C:\Users\Thiago Barreto\Desktop\Csharp\EditorTexto\bin\Debug\net8.0\EditorTexto.exe
+C:\Users\Thiago Barreto\Desktop\Csharp\EditorTexto\bin\Debug\net8.0\EditorTexto.deps.json
+C:\Users\Thiago Barreto\Desktop\Csharp\EditorTexto\bin\Debug\net8.0\EditorTexto.runtimeconfig.json
+C:\Users\Thiago Barreto\Desktop\Csharp\EditorTexto\bin\Debug\net8.0\EditorTexto.dll
+C:\Users\Thiago Barreto\Desktop\Csharp\EditorTexto\bin\Debug\net8.0\EditorTexto.pdb
+C:\Users\Thiago Barreto\Desktop\Csharp\EditorTexto\obj\Debug\net8.0\EditorTexto.dll
+C:\Users\Thiago Barreto\Desktop\Csharp\EditorTexto\obj\Debug\net8.0\refint\EditorTexto.dll
+C:\Users\Thiago Barreto\Desktop\Csharp\EditorTexto\obj\Debug\net8.0\EditorTexto.pdb
+C:\Users\Thiago Barreto\Desktop\Csharp\EditorTexto\obj\Debug\net8.0\EditorTexto.genruntimeconfig.cache
+C:\Users\Thiago Barreto\Desktop\Csharp\EditorTexto\obj\Debug\net8.0\ref\EditorTexto.dll
