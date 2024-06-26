@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thiago Barreto\\Desktop\\Csharp\\StopWatch\\StopWatch.csproj": {}
+    "C:\\Users\\Thiago Barreto\\Desktop\\Csharp\\Contador\\StopWatch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thiago Barreto\\Desktop\\Csharp\\StopWatch\\StopWatch.csproj": {
+    "C:\\Users\\Thiago Barreto\\Desktop\\Csharp\\Contador\\StopWatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thiago Barreto\\Desktop\\Csharp\\StopWatch\\StopWatch.csproj",
+        "projectUniqueName": "C:\\Users\\Thiago Barreto\\Desktop\\Csharp\\Contador\\StopWatch.csproj",
         "projectName": "StopWatch",
-        "projectPath": "C:\\Users\\Thiago Barreto\\Desktop\\Csharp\\StopWatch\\StopWatch.csproj",
+        "projectPath": "C:\\Users\\Thiago Barreto\\Desktop\\Csharp\\Contador\\StopWatch.csproj",
         "packagesPath": "C:\\Users\\Thiago Barreto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thiago Barreto\\Desktop\\Csharp\\StopWatch\\obj\\",
+        "outputPath": "C:\\Users\\Thiago Barreto\\Desktop\\Csharp\\Contador\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thiago Barreto\\AppData\\Roaming\\NuGet\\NuGet.Config"
